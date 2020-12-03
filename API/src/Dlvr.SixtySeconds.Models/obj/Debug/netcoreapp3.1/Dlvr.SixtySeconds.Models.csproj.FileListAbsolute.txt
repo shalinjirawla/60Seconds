@@ -1,0 +1,12 @@
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.deps.json
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.csprojAssemblyReference.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.csproj.CoreCompileInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.AssemblyInfoInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.AssemblyInfo.cs
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.csproj.CopyComplete
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Models\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.pdb

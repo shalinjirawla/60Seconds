@@ -1,0 +1,9 @@
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.deps.json
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.csprojAssemblyReference.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.csproj.CoreCompileInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.AssemblyInfoInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.AssemblyInfo.cs
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Shared\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.pdb

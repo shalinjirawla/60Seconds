@@ -1,0 +1,9 @@
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\bin\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.deps.json
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\bin\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\bin\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\obj\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.csprojAssemblyReference.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\obj\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.csproj.CoreCompileInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\obj\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.AssemblyInfoInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\obj\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.AssemblyInfo.cs
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\obj\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DataAccessLayer.Library\obj\Debug\netstandard2.0\Dlvr.SixtySeconds.DataAccessLayer.Library.pdb

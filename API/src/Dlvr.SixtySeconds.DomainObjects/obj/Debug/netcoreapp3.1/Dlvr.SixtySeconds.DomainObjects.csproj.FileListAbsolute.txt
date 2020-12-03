@@ -1,0 +1,14 @@
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.deps.json
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Models.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Shared.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.csprojAssemblyReference.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.csproj.CoreCompileInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.AssemblyInfoInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.AssemblyInfo.cs
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.csproj.CopyComplete
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.DomainObjects\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.DomainObjects.pdb

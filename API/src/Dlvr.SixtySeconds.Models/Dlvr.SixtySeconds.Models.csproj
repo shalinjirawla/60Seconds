@@ -1,0 +1,47 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200514073902_ScenarioKeywordIdAdded.cs" />
+    <Compile Remove="Migrations\20200514073902_ScenarioKeywordIdAdded.Designer.cs" />
+    <Compile Remove="Migrations\20200514074719_ScenarioKeywordIdAdded.cs" />
+    <Compile Remove="Migrations\20200514074719_ScenarioKeywordIdAdded.Designer.cs" />
+    <Compile Remove="Migrations\20200514075819_ScenarioKeywordsRemoved.cs" />
+    <Compile Remove="Migrations\20200514075819_ScenarioKeywordsRemoved.Designer.cs" />
+    <Compile Remove="Migrations\20200514090859_TaskBusinessUnitIdUpdate.cs" />
+    <Compile Remove="Migrations\20200514090859_TaskBusinessUnitIdUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20200514092151_TaskBusinessUnitIdUpdate.cs" />
+    <Compile Remove="Migrations\20200514092151_TaskBusinessUnitIdUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20200514105848_TaskAssignmentUpdate.cs" />
+    <Compile Remove="Migrations\20200514105848_TaskAssignmentUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20200518045103_TaskCreatedByUpdate.cs" />
+    <Compile Remove="Migrations\20200518045103_TaskCreatedByUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20200518045606_TaskCreatedByUpdate.cs" />
+    <Compile Remove="Migrations\20200518045606_TaskCreatedByUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20200518045712_TaskCreatedByUpdate1.cs" />
+    <Compile Remove="Migrations\20200518045712_TaskCreatedByUpdate1.Designer.cs" />
+    <Compile Remove="Migrations\20200526092709_UserSessionChange.cs" />
+    <Compile Remove="Migrations\20200526092709_UserSessionChange.Designer.cs" />
+    <Compile Remove="Migrations\20200526093339_UserSessionChange.cs" />
+    <Compile Remove="Migrations\20200526093339_UserSessionChange.Designer.cs" />
+    <Compile Remove="Migrations\20200526093954_UserSessionRemove.cs" />
+    <Compile Remove="Migrations\20200526093954_UserSessionRemove.Designer.cs" />
+    <Compile Remove="Migrations\20200526094452_UserSessionChange.cs" />
+    <Compile Remove="Migrations\20200526094452_UserSessionChange.Designer.cs" />
+    <Compile Remove="Migrations\20200526095116_UserSessionChange.cs" />
+    <Compile Remove="Migrations\20200526095116_UserSessionChange.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>   
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.4" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dlvr.SixtySeconds.Shared\Dlvr.SixtySeconds.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

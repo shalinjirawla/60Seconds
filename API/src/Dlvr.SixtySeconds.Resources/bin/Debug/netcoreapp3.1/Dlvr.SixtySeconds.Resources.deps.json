@@ -1,0 +1,31 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Dlvr.SixtySeconds.Resources/1.0.0": {
+        "runtime": {
+          "Dlvr.SixtySeconds.Resources.dll": {}
+        },
+        "resources": {
+          "en-US/Dlvr.SixtySeconds.Resources.resources.dll": {
+            "locale": "en-US"
+          },
+          "fr-FR/Dlvr.SixtySeconds.Resources.resources.dll": {
+            "locale": "fr-FR"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dlvr.SixtySeconds.Resources/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

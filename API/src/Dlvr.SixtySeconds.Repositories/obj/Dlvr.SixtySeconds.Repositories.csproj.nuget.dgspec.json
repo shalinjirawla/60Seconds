@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Repositories\\Dlvr.SixtySeconds.Repositories.csproj": {}
+  },
+  "projects": {
+    "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.DomainObjects\\Dlvr.SixtySeconds.DomainObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.DomainObjects\\Dlvr.SixtySeconds.DomainObjects.csproj",
+        "projectName": "Dlvr.SixtySeconds.DomainObjects",
+        "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.DomainObjects\\Dlvr.SixtySeconds.DomainObjects.csproj",
+        "packagesPath": "C:\\Users\\Shalin Jirawla\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.DomainObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shalin Jirawla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\Dlvr.SixtySeconds.Models.csproj": {
+                "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\Dlvr.SixtySeconds.Models.csproj"
+              },
+              "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj": {
+                "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\Dlvr.SixtySeconds.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\Dlvr.SixtySeconds.Models.csproj",
+        "projectName": "Dlvr.SixtySeconds.Models",
+        "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\Dlvr.SixtySeconds.Models.csproj",
+        "packagesPath": "C:\\Users\\Shalin Jirawla\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shalin Jirawla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj": {
+                "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Repositories\\Dlvr.SixtySeconds.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Repositories\\Dlvr.SixtySeconds.Repositories.csproj",
+        "projectName": "Dlvr.SixtySeconds.Repositories",
+        "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Repositories\\Dlvr.SixtySeconds.Repositories.csproj",
+        "packagesPath": "C:\\Users\\Shalin Jirawla\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shalin Jirawla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.DomainObjects\\Dlvr.SixtySeconds.DomainObjects.csproj": {
+                "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.DomainObjects\\Dlvr.SixtySeconds.DomainObjects.csproj"
+              },
+              "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\Dlvr.SixtySeconds.Models.csproj": {
+                "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Models\\Dlvr.SixtySeconds.Models.csproj"
+              },
+              "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Resources\\Dlvr.SixtySeconds.Resources.csproj": {
+                "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Resources\\Dlvr.SixtySeconds.Resources.csproj"
+              },
+              "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj": {
+                "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Localization.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Resources\\Dlvr.SixtySeconds.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Resources\\Dlvr.SixtySeconds.Resources.csproj",
+        "projectName": "Dlvr.SixtySeconds.Resources",
+        "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Resources\\Dlvr.SixtySeconds.Resources.csproj",
+        "packagesPath": "C:\\Users\\Shalin Jirawla\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shalin Jirawla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj",
+        "projectName": "Dlvr.SixtySeconds.Shared",
+        "projectPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\Dlvr.SixtySeconds.Shared.csproj",
+        "packagesPath": "C:\\Users\\Shalin Jirawla\\.nuget\\packages\\",
+        "outputPath": "E:\\Work\\In pipeline\\2020\\JamesNicol_60seconds\\API\\src\\Dlvr.SixtySeconds.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shalin Jirawla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.deps.json
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\bin\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.pdb
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\bin\Debug\netcoreapp3.1\en-US\Dlvr.SixtySeconds.Resources.resources.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\bin\Debug\netcoreapp3.1\fr-FR\Dlvr.SixtySeconds.Resources.resources.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.csprojAssemblyReference.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.Localize.Resource.en-US.resources
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.Localize.Resource.fr-FR.resources
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.csproj.GenerateResource.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.csproj.CoreCompileInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.AssemblyInfoInputs.cache
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.AssemblyInfo.cs
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\en-US\Dlvr.SixtySeconds.Resources.resources.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\fr-FR\Dlvr.SixtySeconds.Resources.resources.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.dll
+E:\Work\In pipeline\2020\JamesNicol_60seconds\API\src\Dlvr.SixtySeconds.Resources\obj\Debug\netcoreapp3.1\Dlvr.SixtySeconds.Resources.pdb

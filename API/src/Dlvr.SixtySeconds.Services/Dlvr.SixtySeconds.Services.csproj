@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dlvr.SixtySeconds.DomainObjects\Dlvr.SixtySeconds.DomainObjects.csproj" />
+    <ProjectReference Include="..\Dlvr.SixtySeconds.Repositories\Dlvr.SixtySeconds.Repositories.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Localization.Abstractions" Version="3.1.4" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.4" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dlvr.SixtySeconds.Models\Dlvr.SixtySeconds.Models.csproj" />
+    <ProjectReference Include="..\Dlvr.SixtySeconds.Resources\Dlvr.SixtySeconds.Resources.csproj" />
+  </ItemGroup>
+
+</Project>
