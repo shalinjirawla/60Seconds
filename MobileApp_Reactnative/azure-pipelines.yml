@@ -1,0 +1,37 @@
+queue:
+    name: Hosted Ubuntu 1604
+    demands: npm
+    
+trigger:
+  - develop
+  - staging
+  - production
+
+variables:
+  ${{ if eq(variables['Build.SourceBranchName'], 'production') }}:
+    USER: "dlvrhitesh"
+    PWD: "DLVRDLVR"
+    env: "prod"
+  ${{ if eq(variables['Build.SourceBranchName'], 'staging') }}:
+    USER: "dlvrhitesh"
+    PWD: "DLVRDLVR"
+    env: "staging"
+  ${{ if eq(variables['Build.SourceBranchName'], 'develop') }}:
+    USER: "dlvrhitesh"
+    PWD: "DLVRDLVR"
+    env: "dev"
+
+steps:
+  - task: NodeTool@0
+    inputs:
+      versionSpec: "10.x"
+    displayName: "Install Node.js"
+
+  - script: |
+      rm -rf node_modules
+      npm install
+      npm install fbjs
+      npm install -g expo-cli
+      expo login -u $(USER) -p $(PWD) --non-interactive
+      expo publish --non-interactive --release-channel $(env)
+    displayName: "npm install, build and publish"

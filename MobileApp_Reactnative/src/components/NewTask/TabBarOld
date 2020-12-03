@@ -1,0 +1,131 @@
+import React, {useState} from 'react';
+import {StyleSheet, Text, View, TouchableOpacity} from 'react-native';
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+
+const TabBar = ({onTabPress}) => {
+  const [index, setIndex] = useState(1);
+  const onPress = (indx) => {
+    onTabPress(indx);
+    setIndex(indx);
+  };
+  return (
+    <View style={{height: 80, width: '100%'}}>
+      <View style={styles.container}>
+        <TabButton
+          icon="lightbulb"
+          isSelected={index === 1}
+          onPress={() => onPress(1)}
+        />
+        <TabButton
+          icon="pencil"
+          isSelected={index === 2}
+          onPress={() => onPress(2)}
+        />
+        <TabButton
+          icon="microphone"
+          isSelected={index === 3}
+          onPress={() => onPress(3)}
+        />
+        <TabButton
+          icon="camcorder"
+          isSelected={index === 4}
+          onPress={() => onPress(4)}
+        />
+      </View>
+      <View
+        style={{
+          height: 30,
+          width: '100%',
+          backgroundColor: 'transparent',
+          alignItems: 'center',
+          flexDirection: 'row',
+        }}>
+        <Text
+          style={[
+            styles.text,
+            {
+              color: index === 1 ? 'white' : '#b1d7fa',
+              fontWeight: index === 1 ? 'bold' : 'normal',
+            },
+          ]}>
+          SCENARIO
+        </Text>
+        <Text
+          style={[
+            styles.text,
+            {
+              color: index === 2 ? 'white' : '#b1d7fa',
+              fontWeight: index === 2 ? 'bold' : 'normal',
+            },
+          ]}>
+          SCRIPT
+        </Text>
+        <Text
+          style={[
+            styles.text,
+            {
+              color: index === 3 ? 'white' : '#b1d7fa',
+              fontWeight: index === 3 ? 'bold' : 'normal',
+            },
+          ]}>
+          REFERENCE
+        </Text>
+        <Text
+          style={[
+            styles.text,
+            {
+              color: index === 4 ? 'white' : '#b1d7fa',
+              fontWeight: index === 4 ? 'bold' : 'normal',
+            },
+          ]}>
+          DELIVER
+        </Text>
+      </View>
+    </View>
+  );
+};
+
+export default TabBar;
+
+const TabButton = ({icon, isSelected, onPress}) => {
+  return (
+    <TouchableOpacity
+      onPress={onPress}
+      style={[styles.btnContainer, {backgroundColor: isSelected ? 'white' : 'transparent'}]}>
+      <Icon
+        name={icon}
+        color={isSelected ? '#1469af' : 'white'}
+        size={30}
+        style={{marginTop: 8}}
+      />
+      <View style={[styles.btnLine, {borderBottomWidth: isSelected ? 5 : 0}]} />
+    </TouchableOpacity>
+  );
+};
+
+const styles = StyleSheet.create({
+  container: {
+    height: 50,
+    width: '100%',
+    backgroundColor: 'rgba(152, 199, 240, 0.7)',
+    borderRadius: 25,
+    flexDirection: 'row',
+  },
+  btnContainer: {
+    width: '25%',
+    height: 50,
+    borderRadius: 25,
+    justifyContent: 'space-between',
+    alignItems: 'center',
+  },
+  btnLine: {
+    height: 1,
+    width: '30%',
+    borderColor: '#ffb26e',
+  },
+  text: {
+    width: '25%',
+    textAlign: 'center',
+    fontWeight: '600',
+  },
+});

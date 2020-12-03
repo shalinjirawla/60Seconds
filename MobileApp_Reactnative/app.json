@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "60Seconds",
+    "slug": "60Seconds",
+    "scheme": "sixtyseconds",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "owner": "jamesdlvr",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.thedlvr.sixtyseconds",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.thedlvr.sixtyseconds",
+      "versionCode": 1
+    },
+    "hooks": {
+      "postPublish": [
+        {
+          "file": "sentry-expo/upload-sourcemaps",
+          "config": {
+            "organization": "dlvr",
+            "project": "dlvr",
+            "authToken": "6cb179eac7b9411ea84c1058d3d50735c465664403ec434fae31cfde828fcd0d",
+            "url": "your sentry url here"
+          }
+        }
+      ]
+    }
+  }
+}

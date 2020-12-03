@@ -1,0 +1,7 @@
+export const SCRIPT_ACTION = {
+    SCRIPT_APPROVED: 'SCRIPT_APPROVED'
+}
+
+export const VIDEO_ACTION = {
+    VIDEO_APPROVED: 'VIDEO_APPROVED '
+}
